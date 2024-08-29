@@ -1,5 +1,5 @@
-from Globals import *
-from GUI import *
+from globals import *
+from gui import *
 import pygame
 import sys
 
