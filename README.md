@@ -1,3 +1,3 @@
 # Snake Game
 
-A simple snake game, use your arrow keys to control the snake
+A pretty much simple snake game, use the arrow keys to control the snake
